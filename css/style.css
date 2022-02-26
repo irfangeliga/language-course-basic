@@ -1,0 +1,209 @@
+/* card */
+body {
+  background-color: #2b4292;
+}
+.alert {
+  background-color: #ffffff;
+  width: fit-content;
+  margin-top: 7%;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 120%;
+  color: rgb(12, 5, 5);
+  list-style: none;
+  border-radius: 15px;
+}
+
+.btncard {
+  border: 1px solid rgb(85, 85, 230);
+}
+.btncard:hover {
+  background-color: rgb(142, 195, 238);
+}
+
+/* kelas */
+.kelas {
+  margin-top: 4%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto;
+  text-transform: uppercase;
+  color: #2b4292;
+}
+.kelas:hover {
+  background-color: #bdc7f0;
+}
+
+/* mata pelajaran */
+.mapel {
+  margin-top: 4%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto;
+  text-transform: uppercase;
+  color: #0d5e72;
+}
+.mapel:hover {
+  background-color: rgb(106, 192, 207) !important;
+}
+
+/* cover materi */
+.materi {
+  border: 3px solid rgb(245, 245, 245);
+  width: 49%;
+  height: 20%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: left;
+  color: #2b4292;
+  background-color: rgb(245, 245, 245);
+}
+
+/* materi */
+.materi1 {
+  border: 3px solid rgb(245, 245, 245);
+  width: 60%;
+  height: 5%;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10%;
+  border-radius: 10px;
+  text-align: left;
+  color: #2b4292;
+  background-color: rgb(245, 245, 245);
+}
+
+.materi1:hover {
+  background-color: #bdc7f0;
+}
+
+.detail {
+  border: 3px solid rgb(245, 245, 245);
+  width: 60%;
+  height: auto;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(245, 245, 245);
+}
+
+hr {
+  opacity: 100%;
+  size: 8px;
+  color: black;
+}
+
+.btn-file {
+  background: none;
+  border: none;
+  padding: 0;
+}
+
+/* detail-kelas */
+.task {
+  border: 3px solid rgb(245, 245, 245);
+  width: 49%;
+  height: 5%;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+  text-align: left;
+  color: #0d5e72;
+  background-color: rgb(245, 245, 245);
+}
+.task:hover {
+  background-color: rgb(106, 192, 207);
+}
+
+.cover-task {
+  border: 3px solid rgb(245, 245, 245);
+  width: 49%;
+  height: 20%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  color: #0d5e72;
+  background-color: rgb(245, 245, 245);
+}
+
+/* pdf */
+.pdf:hover {
+  background-color: rgb(106, 192, 207);
+}
+.pdf-pelajar:hover {
+  background-color: #bdc7f0;
+}
+
+/* assigment collection */
+.kelas-pengajar {
+  text-transform: uppercase;
+}
+.kelas-pengajar:hover {
+  background-color: rgb(106, 192, 207) !important;
+}
+
+/* upload */
+.upload {
+  border: 3px solid rgb(253, 253, 253);
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  width: 70%;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 3%;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 1%;
+  padding-bottom: 2%;
+}
+
+/* navbar dropdown */
+.turun:hover {
+  background-color: #0d5e72;
+}
+
+/* index-login  */
+.login {
+  border: 1px solid #d43a90;
+  background-color: #d43a90;
+}
+.login:hover {
+  background-color: #ec5bae;
+}
+
+/* profil */
+.profil {
+  border: 3px solid white;
+  background-color: white;
+  border-radius: 10px;
+  width: 75%;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 3%;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+/* tabel kelas */
+/* .tabel-kelas {
+  margin-left: 2%;
+} */

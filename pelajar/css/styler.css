@@ -1,0 +1,119 @@
+.style{
+    font-size: large;
+    font-style: italic;
+}
+a.disabledd {
+    pointer-events: none;
+    color: #ccc;
+}
+.bg-bluee{
+    background-color: #4e63b4;
+}
+.bg-container{
+    background-color: #B3C1CE;
+}
+.font-identity{
+    color: white;
+}
+.a:hover{
+    color: white;
+}
+.font-white{
+    color: white;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+.font-white2{
+    color: rgb(206, 206, 206);
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.font-white3{
+    color: white;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.bg-button{
+    background-color: #D43A90 ;
+    
+}
+.button-hover:hover{
+    background-color: #CeC7db;
+}
+.link-noline{
+    color: black;
+    text-decoration: none;
+    text-transform: none;
+}
+.sponsor1:hover{
+    opacity: 80%;
+}
+.pad-carousel{
+    margin-top: 1px;
+}
+.width-height{
+    width: 440px;
+    height: 690px;
+}
+.margin-section{
+    margin-top: 20px;
+}
+.margin-card{
+    margin-top: 5px;
+    
+}
+@media only screen and (min-device-width : 50px) and (max-device-width : 1196px){
+    .sensei-carousel{
+        display: none;
+    }
+    #product {
+        margin-bottom: 40px;
+    }
+}
+.bg-product{
+    border-radius: 10px;
+}
+.picture-product{
+    border-radius: 10px;
+}
+.pad-product-top{
+    padding-top: 15px;
+}
+.pad-product-bott{
+    padding-bottom: 15px;
+}
+.bg-test{
+    background-image: url("gambar/bg-awal.png");
+    padding-bottom: 500px;
+}
+.pad-all{
+    padding: 15px;
+}
+.contain-pay{
+    width: 700px;
+}
+.footer-pay{
+    height: 100px;
+}
+.input{
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+.width-nav{
+    width: 800px;
+}
+.width-btn-login{
+    width: 120px;
+}
+.width-btn-bayar{
+    width: 200px;
+}
+.margin-footer{
+    margin-right: 10px;
+}
+.btn-glow:hover{
+    background: #ff96ad;
+    box-shadow: 0 0 5px #ff96ad, 0 0 25px #ff96ad;
+}
